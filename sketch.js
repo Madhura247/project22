@@ -65,6 +65,3 @@ function keyPressed() {
     packageBody.restitution = 0.5
   }
 }
-
-
-
