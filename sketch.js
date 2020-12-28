@@ -20,7 +20,7 @@ function setup() {
 		
 	}
 
-	packageSprite=createSprite(width/2, 80, 10,10, package_options);
+	packageSprite=createSprite(width/2, 80, 10,10);
 	packageSprite.addImage(packageIMG)
 	packageSprite.scale=0.2
 
